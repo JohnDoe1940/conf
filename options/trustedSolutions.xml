@@ -1,0 +1,22 @@
+<application>
+  <component name="TrustedSolutionStore">
+    <option name="trustedLocations">
+      <set>
+        <option value="C:\Users\Bogdan\RiderProjects\testai\.idea\.idea.testai" />
+        <option value="E:\RiderApps\DevSpot" />
+        <option value="E:\RiderApps\DevSpot.Tests\.idea\.idea.DevSpot.Tests" />
+        <option value="E:\RiderApps\DevSpot\.idea\.idea.DevSpot" />
+        <option value="E:\RiderApps\DevSpot\Blazorserver\.idea\.idea.Blazorserver" />
+        <option value="E:\RiderApps\DevSpot\DevSpot.tests\.idea\.idea.DevSpot.tests" />
+        <option value="E:\RiderApps\DevSpot\DevSpot\.idea\.idea.DevSpot.dir" />
+        <option value="E:\RiderApps\DevSpot\Struct\.idea\.idea.Struct" />
+        <option value="E:\RiderApps\DevSpot\blazorAppAssembly\.idea\.idea.blazorAppAssembly" />
+        <option value="E:\RiderApps\DiaryApp\.idea\.idea.DiaryApp" />
+        <option value="E:\RiderApps\WebApiSwag\.idea\.idea.WebApiSwag" />
+        <option value="E:\RiderApps\WebApi\.idea\.idea.WebApi" />
+        <option value="E:\RiderApps\newapi\.idea\.idea.newapi" />
+        <option value="E:\RiderApps\webapiS\.idea\.idea.webapiS" />
+      </set>
+    </option>
+  </component>
+</application>

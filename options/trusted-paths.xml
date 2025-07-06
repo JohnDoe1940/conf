@@ -1,0 +1,33 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\Bogdan\RiderProjects\testai" value="true" />
+        <entry key="C:\Users\Bogdan\RiderProjects\testai\.idea\.idea.testai" value="true" />
+        <entry key="E:\RiderApps\DevSpot" value="true" />
+        <entry key="E:\RiderApps\DevSpot.Tests" value="true" />
+        <entry key="E:\RiderApps\DevSpot\.idea\.idea.DevSpot" value="true" />
+        <entry key="E:\RiderApps\DevSpot\Blazorserver" value="true" />
+        <entry key="E:\RiderApps\DevSpot\Blazorserver\.idea\.idea.Blazorserver" value="true" />
+        <entry key="E:\RiderApps\DevSpot\DevSpot" value="true" />
+        <entry key="E:\RiderApps\DevSpot\DevSpot.tests" value="true" />
+        <entry key="E:\RiderApps\DevSpot\DevSpot.tests\.idea\.idea.DevSpot.tests" value="true" />
+        <entry key="E:\RiderApps\DevSpot\DevSpot\.idea\.idea.DevSpot.dir" value="true" />
+        <entry key="E:\RiderApps\DevSpot\Struct" value="true" />
+        <entry key="E:\RiderApps\DevSpot\Struct\.idea\.idea.Struct" value="true" />
+        <entry key="E:\RiderApps\DevSpot\blazorAppAssembly" value="true" />
+        <entry key="E:\RiderApps\DevSpot\blazorAppAssembly\.idea\.idea.blazorAppAssembly" value="true" />
+        <entry key="E:\RiderApps\DiaryApp" value="true" />
+        <entry key="E:\RiderApps\DiaryApp\.idea\.idea.DiaryApp" value="true" />
+        <entry key="E:\RiderApps\WebApi" value="true" />
+        <entry key="E:\RiderApps\WebApiSwag" value="true" />
+        <entry key="E:\RiderApps\WebApiSwag\.idea\.idea.WebApiSwag" value="true" />
+        <entry key="E:\RiderApps\WebApi\.idea\.idea.WebApi" value="true" />
+        <entry key="E:\RiderApps\newapi" value="true" />
+        <entry key="E:\RiderApps\newapi\.idea\.idea.newapi" value="true" />
+        <entry key="E:\RiderApps\webapiS" value="true" />
+        <entry key="E:\RiderApps\webapiS\.idea\.idea.webapiS" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

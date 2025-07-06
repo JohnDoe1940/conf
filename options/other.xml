@@ -1,0 +1,80 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="C#" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "AIHubNotificationManager.lastUsedLicenseType": "FREE",
+    "Debug.Allow.Typing": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "4",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "RD-251.23774.437",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "RD-251.23774.437",
+    "NextRunPlatformUpdateBuild": "RD-251.26927.67",
+    "NextRunPlatformUpdateSelfBuild": "RD-251.23774.437",
+    "NextRunPlatformUpdateVersion": "2025.1.4",
+    "RD.Init.Cfg.2": "true",
+    "RD.Init.DialogShown.Ide": "true",
+    "Rider.Current.Build.Use.Start": "2025-04-19T20:50:28.845876Z",
+    "Rider.Last.Observed.New.UI.State": "true",
+    "Rider.Last.Started.IDE.Build": "RD-251.23774.437",
+    "RiderUnitTestPanelSplitter.Horizontal": "0.5",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.deprecation.notification": "true",
+    "RunOnceActivity.software.aws.toolkits.jetbrains.services.telemetry.AwsToolkitStartupMetrics": "true",
+    "SettingsSearchHistory": "browser\nbuild\nnew project template\nHot Reload Debugging\nhot reload",
+    "WelcomeFeature.SHORT_WELCOME_GUIDE_SHOWN": "true",
+    "ai.assistant.inline.prompt.detector.used": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "com.intellij.database.actions.DbDeleteProvider$2.proportion": "0.5",
+    "com.intellij.database.actions.ddl.DbModifyObjectDialog.proportion": "0.5",
+    "database.notebook.setting.id": "d0e7c0fa-2157-48e0-92b8-66b601b34a3d",
+    "disable.forced.soft.wraps.notification": "true",
+    "enter_selection_count": "4",
+    "evlsprt3.251": "4",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "251.23774.437",
+    "file.gist.reindex.count": "1",
+    "fileTypeChangedCounter": "3",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "ift.hide.welcome.screen.promo": "true",
+    "last_open_solution_path": "E:/RiderApps/DiaryApp",
+    "last_selected_project_template": "Project Type_Web",
+    "last_selected_project_template_parameters": "Microsoft.Web.Blazor.CSharp.9.0:iisHttpsPort=;Microsoft.Web.WebApi.CSharp.9.0:ClientId=11111111-1111-1111-11111111111111111;Microsoft.Web.WebApi.CSharp.9.0:UseControllers=true;Microsoft.Web.Blazor.CSharp.9.0:InteractivityLocation=InteractivePerPage;Microsoft.Web.Mvc.CSharp.9.0:CallsMicrosoftGraph=false;Microsoft.Web.Blazor.Wasm.CSharp.9.0:iisHttpPort=;NUnit3.DotNetNew.Template.CSharp.9.0:EnablePack=false;Microsoft.Web.Mvc.CSharp.9.0:UserSecretsId=aspnet-Company.WebApplication1-53bc9b9d-9d6a-45d4-8429-2a2761773502;Microsoft.Web.Blazor.Wasm.CSharp.9.0:ClientId=33333333-3333-3333-33333333333333333;Microsoft.Web.Blazor.CSharp.9.0:UseProgramMain=false;Microsoft.Web.Mvc.CSharp.9.0:CalledApiUrl=https://graph.microsoft.com/v1.0;Microsoft.Web.Mvc.CSharp.9.0:ClientId=11111111-1111-1111-11111111111111111;Microsoft.Web.Mvc.CSharp.9.0:iisHttpPort=;TargetFramework=net9.0_net9.0_true;Microsoft.Web.Blazor.Wasm.CSharp.9.0:AADInstance=https://login.microsoftonline.com/;Microsoft.Web.Mvc.CSharp.9.0:AADInstance=https://login.microsoftonline.com/;SDK=9.0;Microsoft.Web.WebApi.CSharp.9.0:kestrelHttpsPort=;Microsoft.Web.Blazor.Wasm.CSharp.9.0:CalledApiScopes=user.read;Microsoft.Web.Blazor.Wasm.CSharp.9.0:NoHttps=false;Microsoft.Web.Blazor.CSharp.9.0:ExcludeLaunchSettings=false;Microsoft.Web.WebApi.CSharp.9.0:CallsMicrosoftGraph=false;Microsoft.Web.WebApi.CSharp.9.0:iisHttpsPort=;Microsoft.Web.Blazor.Wasm.CSharp.9.0:CalledApiUrl=https://graph.microsoft.com/v1.0;Microsoft.Web.WebApi.CSharp.9.0:TenantId=22222222-2222-2222-2222-222222222222;Microsoft.Web.Blazor.Wasm.CSharp.9.0:iisHttpsPort=;Microsoft.Web.Mvc.CSharp.9.0:AAdB2CInstance=https://login.microsoftonline.com/tfp/;DockerCompose=false;sameDirectory=false;Microsoft.Web.Blazor.CSharp.9.0:kestrelHttpsPort=;Microsoft.Web.Mvc.CSharp.9.0:SignUpSignInPolicyId=b2c_1_susi;Microsoft.Web.Blazor.Wasm.CSharp.9.0:Empty=false;Microsoft.Web.Mvc.CSharp.9.0:SignedOutCallbackPath=/signout/B2C_1_susi;Microsoft.Web.Mvc.CSharp.9.0:TenantId=22222222-2222-2222-2222-222222222222;Microsoft.Web.Mvc.CSharp.9.0:iisHttpsPort=;Microsoft.Web.Blazor.Wasm.CSharp.9.0:TenantId=22222222-2222-2222-2222-222222222222;Microsoft.Web.Mvc.CSharp.9.0:auth=None;Microsoft.Web.Blazor.Wasm.CSharp.9.0:Domain=qualified.domain.name;Microsoft.Web.WebApi.CSharp.9.0:AAdB2CInstance=https://qualified.domain.name.b2clogin.com/;Microsoft.Web.Blazor.Wasm.CSharp.9.0:ExcludeLaunchSettings=false;Microsoft.Web.Mvc.CSharp.9.0:Domain=qualified.domain.name;Microsoft.Web.Mvc.CSharp.9.0:OrgReadAccess=false;Microsoft.Web.Blazor.Wasm.CSharp.9.0:DefaultScope=access_as_user;Microsoft.Web.Blazor.CSharp.9.0:iisHttpPort=;Directory=E:\\RiderApps\\DevSpot;createDirectoryForSolution=true;Microsoft.Web.Blazor.Wasm.CSharp.9.0:Authority=https://login.microsoftonline.com/;Microsoft.Web.Blazor.CSharp.9.0:IncludeSampleContent=true;Microsoft.Web.Blazor.CSharp.9.0:NoHttps=false;Microsoft.Web.WebApi.CSharp.9.0:CalledApiScopes=user.read;Type=Blazor Web App;Microsoft.Web.WebApiAot.CSharp.9.0:ExcludeLaunchSettings=false;Microsoft.Web.Mvc.CSharp.9.0:EditProfilePolicyId=b2c_1_edit_profile;Microsoft.Web.Mvc.CSharp.9.0:CallbackPath=/signin-oidc;Microsoft.Web.WebApi.CSharp.9.0:iisHttpPort=;Microsoft.Web.Mvc.CSharp.9.0:CalledApiScopes=user.read;Microsoft.Web.Mvc.CSharp.9.0:kestrelHttpsPort=;Microsoft.Web.Blazor.CSharp.9.0:InteractivityPlatform=Server;Microsoft.Web.Mvc.CSharp.9.0:UseProgramMain=false;Microsoft.Web.Blazor.Wasm.CSharp.9.0:UseLocalDB=false;Microsoft.Web.WebApiAot.CSharp.9.0:iisHttpPort=;NUnit3.DotNetNew.Template.CSharp.9.0:langVersion=;DockerSupport=false;Microsoft.Web.WebApi.CSharp.9.0:UserSecretsId=aspnet-Company.WebApplication1-53bc9b9d-9d6a-45d4-8429-2a2761773502;Microsoft.Web.Blazor.Wasm.CSharp.9.0:UserSecretsId=aspnet-BlazorServerWeb-CSharp-53bc9b9d-9d6a-45d4-8429-2a2761773502;Microsoft.Web.Mvc.CSharp.9.0:UseLocalDB=false;Microsoft.Web.Blazor.Wasm.CSharp.9.0:kestrelHttpsPort=;Microsoft.Web.Blazor.CSharp.9.0:AllInteractive=false;Microsoft.Web.Blazor.CSharp.9.0:kestrelHttpPort=;Microsoft.Web.WebApi.CSharp.9.0:UseMinimalAPIs=true;Microsoft.Web.Blazor.CSharp.9.0:auth=None;Microsoft.Test.xUnit.CSharp.9.0:EnablePack=false;Microsoft.Web.Mvc.CSharp.9.0:ExcludeLaunchSettings=false;Microsoft.Web.Blazor.Wasm.CSharp.9.0:UseProgramMain=false;Microsoft.Web.WebApi.CSharp.9.0:NoHttps=false;Microsoft.Web.WebApi.CSharp.9.0:Domain=qualified.domain.name;Microsoft.Web.Blazor.Wasm.CSharp.9.0:auth=None;Microsoft.Web.WebApiAot.CSharp.9.0:UseProgramMain=false;Microsoft.Web.WebApiAot.CSharp.9.0:kestrelHttpPort=;Microsoft.Web.Blazor.Wasm.CSharp.9.0:IncludeSampleContent=true;Microsoft.Web.Mvc.CSharp.9.0:ResetPasswordPolicyId=b2c_1_reset;Microsoft.Web.Blazor.CSharp.9.0:UseLocalDB=false;Microsoft.Web.Blazor.CSharp.9.0:Empty=false;Microsoft.Web.WebApi.CSharp.9.0:UseProgramMain=false;Microsoft.Web.Blazor.Wasm.CSharp.9.0:kestrelHttpPort=;Microsoft.Web.WebApi.CSharp.9.0:ExcludeLaunchSettings=false;Microsoft.Web.Blazor.Wasm.CSharp.9.0:AAdB2CInstance=https:////aadB2CInstance.b2clogin.com/;Microsoft.Web.WebApi.CSharp.9.0:SignUpSignInPolicyId=b2c_1_susi;Language=C#;Microsoft.Web.Blazor.Wasm.CSharp.9.0:SignUpSignInPolicyId=b2c_1_susi;Microsoft.Web.Blazor.Wasm.CSharp.9.0:APIClientId=11111111-1111-1111-11111111111111111;Microsoft.Web.Blazor.CSharp.9.0:UserSecretsId=aspnet-BlazorWeb-CSharp-53bc9b9d-9d6a-45d4-8429-2a2761773502;Microsoft.Web.Blazor.Wasm.CSharp.9.0:AppIDUri=api.id.uri;Microsoft.Web.WebApi.CSharp.9.0:OrgReadAccess=false;createGitRepository=false;Framework=net9.0;Microsoft.Web.WebApi.CSharp.9.0:CalledApiUrl=https://graph.microsoft.com/v1.0;Microsoft.Web.WebApi.CSharp.9.0:kestrelHttpPort=;Microsoft.Web.Mvc.CSharp.9.0:NoHttps=false;Microsoft.Web.Blazor.Wasm.CSharp.9.0:PWA=false;Microsoft.Web.WebApi.CSharp.9.0:auth=None;Microsoft.Web.WebApi.CSharp.9.0:UseLocalDB=false;Microsoft.Web.WebApi.CSharp.9.0:DisableOpenAPI=false;Microsoft.Web.Mvc.CSharp.9.0:kestrelHttpPort=;Microsoft.Web.Blazor.Wasm.CSharp.9.0:OrgReadAccess=false;Microsoft.Web.WebApi.CSharp.9.0:AADInstance=https://login.microsoftonline.com/;Microsoft.Web.WebApi.CSharp.9.0:DefaultScope=access_as_user;",
+    "llm.installer.last.toolwindow.state": "AI_ASSISTANT",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Rider Dark",
+    "registry.to.advanced.settings.migration.build": "RD-251.23774.437",
+    "tab_selection_count": "1",
+    "terminal.gen.one.option.visible": "false",
+    "toolwindow.stripes.buttons.info.shown": "true",
+    "ts.lib.d.ts.version": "5.6.3",
+    "whats.new.last.shown.version": "2025-1-23774-67331011d0b06121fa3733c5751e1180ac468557"
+  },
+  "keyToStringList": {
+    "AIHubNotificationManager.lastAllNotifications": [],
+    "AIHubNotificationManager.notifications": [
+      "FREE_ENABLED"
+    ],
+    "AIHubNotificationManager.seenNotifications": [],
+    "com.jetbrains.rider.afterInstall.statsReportedBuilds": [
+      "RD-251.23774.437"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

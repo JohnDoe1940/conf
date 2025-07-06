@@ -1,0 +1,153 @@
+<application>
+  <component name="RiderRecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/RiderProjects/testai/testai.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="testai – _Layout.cshtml" projectWorkspaceId="2wmCPpuysIPPkQsZ8QaJWpFud1L">
+              <option name="activationTimestamp" value="1746639589609" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-251.23774.437" />
+              <option name="buildTimestamp" value="1744650540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1746639127015" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/RiderApps/webapiS/webapiS.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="webapiS – appsettings.json" projectWorkspaceId="2woBfbzwMKefWjJLeyB463NijKr">
+              <option name="activationTimestamp" value="1747738643955" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-251.23774.437" />
+              <option name="buildTimestamp" value="1744650540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1747738644346" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/RiderApps/DevSpot/DevSpot.tests/DevSpot.tests.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="DevSpot.tests" projectWorkspaceId="2xSfCXsuJtgRPHzDxOprN2NBkgl">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-251.23774.437" />
+              <option name="buildTimestamp" value="1744650540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1747936386030" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/RiderApps/DiaryApp/DiaryApp.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="DiaryApp – Program.cs" projectWorkspaceId="2vxlPA5aXkWIv3aVpKKN9nXDxzo">
+              <option name="activationTimestamp" value="1747569742222" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-251.23774.437" />
+              <option name="buildTimestamp" value="1744650540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1747936414482" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/RiderApps/DevSpot/DevSpot/DevSpot.csproj">
+          <value>
+            <RecentProjectMetaInfo displayName="DevSpot" frameTitle="DevSpot – JobPostingRepository.cs" projectWorkspaceId="2xME7AbdEebLO9YOoJAsebwBMWe">
+              <option name="activationTimestamp" value="1747936505582" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-251.23774.437" />
+              <option name="buildTimestamp" value="1744650540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="metadata" value="DevSpot|E:/RiderApps/DevSpot/DevSpot/DevSpot.csproj" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1747936420734" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/RiderApps/DevSpot/blazorAppAssembly/blazorAppAssembly.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="blazorAppAssembly – Weather.razor" projectWorkspaceId="2xhAJf19JZkAXxVNPpsUL5512fK">
+              <option name="activationTimestamp" value="1749039263928" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-251.23774.437" />
+              <option name="buildTimestamp" value="1744650540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="-1928" y="69" width="1930" height="1050" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1749039244799" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/RiderApps/DevSpot/Struct/Struct.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Struct" projectWorkspaceId="2zHfzGdZcvSqxcIXy5UKcm3EaFS">
+              <option name="activationTimestamp" value="1751393478546" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-251.23774.437" />
+              <option name="buildTimestamp" value="1744650540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="260" y="20" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1751393180449" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/RiderApps/DevSpot/DevSpot.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="DevSpot – Register.cshtml.cs" projectWorkspaceId="2xKTGj7po33kwlejcmY5rRGcaXP">
+              <option name="activationTimestamp" value="1751393562341" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-251.23774.437" />
+              <option name="buildTimestamp" value="1744650540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1751393555016" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/RiderApps/DevSpot/Blazorserver/Blazorserver.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Blazorserver – FileUpload.cs" opened="true" projectWorkspaceId="2y2jUS3Vpz705R2XxVU68DCu6xh">
+              <option name="activationTimestamp" value="1751393898472" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-251.23774.437" />
+              <option name="buildTimestamp" value="1744650540000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1751393800397" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="E:/RiderApps/DevSpot/Blazorserver/Blazorserver.sln" />
+  </component>
+</application>
